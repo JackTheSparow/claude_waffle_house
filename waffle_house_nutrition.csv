@@ -1,0 +1,382 @@
+section,component_type,item,calories,fat_g,sat_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carbs_g,fiber_g,sugars_g,protein_g,allergens
+BREAKFAST ALL-STAR SPECIAL™,,2 Eggs - Scrambled,180,14,4,1,338,176,2,0,2,12,"Egg, Soy"
+BREAKFAST ALL-STAR SPECIAL™,component,Classic Waffle,410,18,10,0,50,870,55,2,15,8,"Egg, Milk, Soy, Tree Nuts, Wheat"
+BREAKFAST ALL-STAR SPECIAL™,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+BREAKFAST ALL-STAR SPECIAL™,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+BREAKFAST ALL-STAR SPECIAL™,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+BREAKFAST ALL-STAR SPECIAL™,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+BREAKFAST ALL-STAR SPECIAL™,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+BREAKFAST ALL-STAR SPECIAL™,option,Grits,90,3,1,0,0,300,16,1,0,3,"Egg, Milk, Soy, Wheat"
+BREAKFAST ALL-STAR SPECIAL™,,Regular Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+BREAKFAST ALL-STAR SPECIAL™,,Sliced Tomatoes,10,0,0,0,0,0,2,0,2,0,
+BREAKFAST ALL-STAR SPECIAL™,option,Bacon - 3 Slices,135,12,5,0,30,375,0,0,0,9,
+BREAKFAST ALL-STAR SPECIAL™,,Sausage - 2 patties,260,24,8,0,50,510,1,0,0,10,
+BREAKFAST ALL-STAR SPECIAL™,,Chicken Sausage - 2 patties,180,13,4,0,75,700,0,0,0,14,
+BREAKFAST ALL-STAR SPECIAL™,,City Ham - 1 Slice,100,3,1,0,40,850,7,0,6,14,
+BREAKFAST ALL-STAR SPECIAL™,,Country Ham - 1 Slice,190,9,3,0,95,2110,1,0,1,25,
+BREAKFAST HASHBROWN BOWLS,,Sausage Egg & Cheese Hashbrown Bowl,920,61,22,1,413,1666,63,6,3,33,
+BREAKFAST HASHBROWN BOWLS,component,Large Hashbrowns,380,14,5,0,0,480,58,6,0,6,Soy
+BREAKFAST HASHBROWN BOWLS,,Sausage,260,24,8,0,50,510,1,0,0,10,
+BREAKFAST HASHBROWN BOWLS,,2 Eggs - Scrambled,180,14,4,1,338,176,2,0,2,12,"Egg, Soy"
+BREAKFAST HASHBROWN BOWLS,,American Cheese (2 Slices),100,9,5,0,25,500,2,0,1,5,"Milk, Soy"
+BREAKFAST HASHBROWN BOWLS,,Chicken Sausage Egg & Cheese Hashbrown Bowl,840,50,18,1,438,1856,62,6,3,37,
+BREAKFAST HASHBROWN BOWLS,component,Large Hashbrowns,380,14,5,0,0,480,58,6,0,6,Soy
+BREAKFAST HASHBROWN BOWLS,,Chicken Sausage,180,13,4,0,75,700,0,0,0,14,
+BREAKFAST HASHBROWN BOWLS,,2 Eggs - Scrambled,180,14,4,1,338,176,2,0,2,12,"Egg, Soy"
+BREAKFAST HASHBROWN BOWLS,,American Cheese (2 Slices),100,9,5,0,25,500,2,0,1,5,"Milk, Soy"
+BREAKFAST HASHBROWN BOWLS,,Bacon Egg & Cheese Hashbrown Bowl,795,49,19,1,393,1531,62,6,3,32,
+BREAKFAST HASHBROWN BOWLS,component,Large Hashbrowns,380,14,5,0,0,480,58,6,0,6,Soy
+BREAKFAST HASHBROWN BOWLS,,Bacon,135,12,5,0,30,375,0,0,0,9,
+BREAKFAST HASHBROWN BOWLS,,2 Eggs - Scrambled,180,14,4,1,338,176,2,0,2,12,"Egg, Soy"
+BREAKFAST HASHBROWN BOWLS,,American Cheese (2 Slices),100,9,5,0,25,500,2,0,1,5,"Milk, Soy"
+BREAKFAST HASHBROWN BOWLS,,Ham Egg & Cheese Hashbrown Bowl,800,43,16,1,413,2416,66,6,5,41,
+BREAKFAST HASHBROWN BOWLS,component,Large Hashbrowns,380,14,5,0,0,480,58,6,0,6,Soy
+BREAKFAST HASHBROWN BOWLS,,Diced Ham,140,6,2,0,50,1260,4,0,2,18,
+BREAKFAST HASHBROWN BOWLS,,2 Eggs - Scrambled,180,14,4,1,338,176,2,0,2,12,"Egg, Soy"
+BREAKFAST HASHBROWN BOWLS,,American Cheese (2 Slices),100,9,5,0,25,500,2,0,1,5,"Milk, Soy"
+EGG BREAKFASTS,,2 Egg Breakfast: 2 Eggs - Scrambled,180,14,4,1,338,176,2,0,2,12,"Egg, Soy"
+EGG BREAKFASTS,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+EGG BREAKFASTS,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+EGG BREAKFASTS,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+EGG BREAKFASTS,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+EGG BREAKFASTS,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+EGG BREAKFASTS,option,Grits,90,3,1,0,0,300,16,1,0,3,"Egg, Milk, Soy, Wheat"
+EGG BREAKFASTS,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+EGG BREAKFASTS,,Sliced Tomatoes,10,0,0,0,0,0,2,0,2,0,
+EGG BREAKFASTS,,Cheese 'N Eggs: 2 Scrambled Eggs with Cheese,280,23,9,1,363,676,4,0,3,17,"Egg, Milk, Soy"
+EGG BREAKFASTS,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+EGG BREAKFASTS,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+EGG BREAKFASTS,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+EGG BREAKFASTS,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+EGG BREAKFASTS,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+EGG BREAKFASTS,option,Grits,90,3,1,0,0,300,16,1,0,3,"Egg, Milk, Soy, Wheat"
+EGG BREAKFASTS,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+EGG BREAKFASTS,,Sliced Tomatoes,10,0,0,0,0,0,2,0,2,0,
+EGG BREAKFASTS,,T-Bone & Eggs: T-Bone Steak and 2 Eggs - Scrambled,600,43,15,1,453,436,2,0,2,49,"Egg, Soy"
+EGG BREAKFASTS,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+EGG BREAKFASTS,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+EGG BREAKFASTS,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+EGG BREAKFASTS,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+EGG BREAKFASTS,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+EGG BREAKFASTS,option,Grits,90,3,1,0,0,300,16,1,0,3,"Egg, Milk, Soy, Wheat"
+EGG BREAKFASTS,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+EGG BREAKFASTS,,Sliced Tomatoes,10,0,0,0,0,0,2,0,2,0,
+EGG BREAKFASTS,,Steak & Eggs: Delmonico Steak and 2 Eggs - Scrambled,480,28,9,2,473,636,2,0,2,53,"Egg, Soy"
+EGG BREAKFASTS,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+EGG BREAKFASTS,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+EGG BREAKFASTS,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+EGG BREAKFASTS,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+EGG BREAKFASTS,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+EGG BREAKFASTS,option,Grits,90,3,1,0,0,300,16,1,0,3,"Egg, Milk, Soy, Wheat"
+EGG BREAKFASTS,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+EGG BREAKFASTS,,Sliced Tomatoes,10,0,0,0,0,0,2,0,2,0,
+EGG BREAKFASTS,,Country Ham & Eggs: Country Ham and 2 Eggs - Scrambled,370,23,7,1,433,2286,3,0,3,37,"Egg, Soy"
+EGG BREAKFASTS,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+EGG BREAKFASTS,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+EGG BREAKFASTS,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+EGG BREAKFASTS,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+EGG BREAKFASTS,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+EGG BREAKFASTS,option,Grits,90,3,1,0,0,300,16,1,0,3,"Egg, Milk, Soy, Wheat"
+EGG BREAKFASTS,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+EGG BREAKFASTS,,Sliced Tomatoes,10,0,0,0,0,0,2,0,2,0,
+EGG BREAKFASTS,,Chicken & Eggs: Grilled Chicken and 2 Eggs - Scrambled,310,15,4,1,418,1106,4,0,2,41,"Egg, Soy"
+EGG BREAKFASTS,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+EGG BREAKFASTS,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+EGG BREAKFASTS,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+EGG BREAKFASTS,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+EGG BREAKFASTS,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+EGG BREAKFASTS,option,Grits,90,3,1,0,0,300,16,1,0,3,"Egg, Milk, Soy, Wheat"
+EGG BREAKFASTS,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+EGG BREAKFASTS,,Sliced Tomatoes,10,0,0,0,0,0,2,0,2,0,
+EGG BREAKFASTS CONTINUED,,Meat Lover's Chicken & Eggs: 2 Pieces of Grilled Chicken and 2 Eggs - Scrambled,440,16,4,1,498,2036,6,0,2,70,"Egg, Soy"
+EGG BREAKFASTS CONTINUED,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,option,Grits,90,3,1,0,0,300,16,1,0,3,"Egg, Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+EGG BREAKFASTS CONTINUED,,Sliced Tomatoes,10,0,0,0,0,0,2,0,2,0,
+EGG BREAKFASTS CONTINUED,,Pork Chops & Eggs: 2 Grilled Pork Chops and 2 Eggs - Scrambled,520,28,9,1,478,1216,2,0,2,64,"Egg, Soy"
+EGG BREAKFASTS CONTINUED,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,option,Grits,90,3,1,0,0,300,16,1,0,3,"Egg, Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+EGG BREAKFASTS CONTINUED,,Sliced Tomatoes,10,0,0,0,0,0,2,0,2,0,
+EGG BREAKFASTS CONTINUED,,Meat Lover's Pork Chops & Eggs: 3 Grilled Pork Chops and 2 Eggs - Scrambled,690,35,12,1,548,1736,2,0,2,90,"Egg, Soy"
+EGG BREAKFASTS CONTINUED,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,option,Grits,90,3,1,0,0,300,16,1,0,3,"Egg, Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+EGG BREAKFASTS CONTINUED,,Sliced Tomatoes,10,0,0,0,0,0,2,0,2,0,
+EGG BREAKFASTS CONTINUED,,Cheesesteak & Eggs: Cheesesteak and 2 Eggs - Scrambled,310,21,7,1,388,476,2,0,2,28,"Egg, Soy"
+EGG BREAKFASTS CONTINUED,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,option,Grits,90,3,1,0,0,300,16,1,0,3,"Egg, Milk, Soy, Wheat"
+EGG BREAKFASTS CONTINUED,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+EGG BREAKFASTS CONTINUED,,Sliced Tomatoes,10,0,0,0,0,0,2,0,2,0,
+EGG BREAKFASTS CONTINUED,,"Fiesta Protein Bowl: Grilled Chicken, 3 Eggs - Scrambled, 2 Cheese, 1 OPT",530,31,11,1,612,2084,14,1,6,52,"Egg, Soy"
+Waffles,,Classic Waffle House Waffle,410,18,10,0,50,870,55,2,15,8,"Egg, Milk, Soy, Tree Nuts, Wheat"
+Waffles,,Pecans,150,15,2,0,0,0,3,2,1,2,Tree Nuts
+Waffles,,ToppingsChocolate Chips,95,5,3,0,0,0,14,1,11,1,Soy
+Waffles,,: Blueberry Nougat,98,2,3,1,0,8,13,0,9,1,"Milk, Soy, Wheat"
+Waffles,,Peanut Butter Chips,113,6,5,0,0,71,13,1,12,2,"Milk, Peanut, Soy"
+Hashbrowns and Toppings,,Waffle House Regular,190,7,3,0,0,240,29,3,0,3,Soy
+Hashbrowns and Toppings,,Hashbrowns: Large,380,14,5,0,0,480,58,6,0,6,Soy
+Hashbrowns and Toppings,,Triple,570,21,8,0,0,720,87,9,0,9,Soy
+Hashbrowns and Toppings,,Sautéed Onions,15,0,0,0,0,0,3,1,1,0,
+Hashbrowns and Toppings,,Melted American Cheese,50,5,3,0,13,250,1,0,1,3,"Milk, Soy"
+Hashbrowns and Toppings,,ToppingsHickory Smoked Ham,70,3,1,0,25,630,2,0,1,9,
+Hashbrowns and Toppings,,: Grilled Tomatoes,5,0,0,0,0,0,2,0,1,0,
+Hashbrowns and Toppings,,Jalapeno Peppers,10,0,0,0,0,390,2,0,0,0,
+Hashbrowns and Toppings,,Grilled Mushrooms,10,0,0,0,0,140,2,1,1,1,
+Hashbrowns and Toppings,,Bert's Chili™,55,2,1,0,5,260,6,2,1,5,"Milk, Soy, Wheat"
+Hashbrowns and Toppings,,Sausage Gravy - 3 oz,75,18,2,0,4,385,8,0,0,1,"Egg, Milk, Soy, Wheat"
+Breakfast Sides,,Bacon,135,12,5,0,30,375,0,0,0,9,
+Breakfast Sides,,Large Bacon,225,20,8,0,50,625,0,0,0,15,
+Breakfast Sides,,Sausage,260,24,8,0,50,510,1,0,0,10,
+Breakfast Sides,,Large Sausage,390,36,12,0,75,765,2,0,0,15,
+Breakfast Sides,,Chicken Sausage,180,13,4,0,75,700,0,0,0,14,
+Breakfast Sides,,City Ham,100,3,1,0,40,850,7,0,6,14,
+Breakfast Sides,,Country Ham,190,9,3,0,95,2110,1,0,1,25,
+Breakfast Sides,,Biscuit & Sausage Gravy,375,33,11,0,4,1185,42,1,2,6,"Egg, Milk, Soy, Wheat"
+Breakfast Sides,,Grits,90,3,1,0,0,300,16,1,0,3,"Egg, Milk, Soy, Wheat"
+Breakfast Sides,,Cheese Grits,140,7,3,0,13,550,17,1,1,6,"Egg, Milk, Soy, Wheat"
+Breakfast Sides,,Tomatoes,10,0,0,0,0,0,2,1,2,1,
+Breakfast Sides,,Sausage Egg & Cheese Grits Bowl,720,52,18,1,413,1786,37,2,3,33,"Egg, Milk, Soy, Wheat"
+Breakfast Sides,,Chicken Sausage Egg & Cheese Grits Bowl,640,41,14,1,438,1976,36,2,3,37,
+Breakfast Sides,,Bacon Egg & Cheese Grits Bowl,595,40,15,1,393,1651,36,2,3,32,"Egg, Milk, Soy, Wheat"
+Breakfast Sides,,Ham Egg & Cheese Grits Bowl,600,34,12,1,413,2536,40,2,5,41,"Egg, Milk, Soy, Wheat"
+Grilled Biscuits,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+Grilled Biscuits,,Sausage Egg & Cheese Biscuit,570,39,18,0,207,1393,37,1,4,19,"Egg, Milk, Soy, Wheat"
+Grilled Biscuits,,Chicken Sausage Egg & Cheese Biscuit,530,33,15,0,219,1488,36,1,4,21,
+Grilled Biscuits,,Bacon Egg & Cheese Biscuit,530,35,17,0,202,1388,36,1,4,20,"Egg, Milk, Soy, Wheat"
+Grilled Biscuits,,Chicken Biscuit,430,16,9,0,80,1730,36,1,2,34,"Egg, Milk, Soy, Wheat"
+Grilled Biscuits,,Bacon Biscuit,390,23,12,0,20,1050,34,1,2,11,"Egg, Milk, Soy, Wheat"
+Grilled Biscuits,,Sausage Biscuit,430,27,13,0,25,1055,35,1,2,10,"Egg, Milk, Soy, Wheat"
+Grilled Biscuits,,Chicken Sausage Biscuit,390,22,11,0,38,1150,34,1,2,12,"Egg, Milk, Soy, Wheat"
+Grilled Biscuits,,City Ham Biscuit (1),400,33,19,0,40,2450,75,2,10,24,"Egg, Milk, Soy, Wheat"
+Grilled Biscuits,,Add-ons: American Cheese - 1 slice,50,5,2.5,0,12.5,250,1,0,1,2.5,"Milk, Soy"
+Grilled Biscuits,,1 Egg - Scrambled,90,7,2,0,169,88,1,0,1,6,"Egg, Soy"
+Grilled Biscuits,,Country Ham Biscuits (2),790,39,21,0,95,3710,69,2,5,35,"Egg, Milk, Soy, Wheat"
+Grilled Biscuits,,Add-ons: American Cheese - 2 slices,100,9,5,0,25,500,2,0,1,5,"Milk, Soy"
+Grilled Biscuits,,2 Eggs - Scrambled,180,14,4,1,338,176,2,0,2,12,"Egg, Soy"
+Breakfast Sandwiches and Melts,,Egg Sandwich,220,9,2,0,169,348,26,1,4,10,"Egg, Soy, Wheat"
+Breakfast Sandwiches and Melts,,Egg & Cheese Sandwich,270,13,5,0,182,598,27,1,5,13,"Egg, Milk, Soy, Wheat"
+Breakfast Sandwiches and Melts,,Texas Egg & Cheese Melt,390,18,7,0,194,968,41,2,6,17,"Egg, Milk, Soy, Wheat"
+Breakfast Sandwiches and Melts,,Sausage Sandwich,390,26,8,0,50,770,26,1,3,14,Soy Wheat
+Breakfast Sandwiches and Melts,,Sausage & Egg Sandwich,480,33,10,0,219,858,27,1,4,20,"Egg, Soy, Wheat"
+Breakfast Sandwiches and Melts,,"Sausage, Egg & Cheese Sandwich",530,37,13,0,232,1108,28,1,5,23,"Egg, Milk, Soy, Wheat"
+Breakfast Sandwiches and Melts,,"Texas Sausage, Egg & Cheese Melt",650,42,15,0,244,1478,42,2,6,27,"Egg, Milk, Soy, Wheat"
+Breakfast Sandwiches and Melts,,Chicken Sausage Sandwich,310,15,4,0,75,960,25,1,3,18,Soy Wheat
+Breakfast Sandwiches and Melts,,Chicken Sausage & Egg Sandwich,400,22,6,0,244,1048,26,1,4,24,"Egg, Soy, Wheat"
+Breakfast Sandwiches and Melts,,"Chicken Sausage, Egg & Cheese Sandwich",450,26,8,0,257,1298,27,1,5,27,"Egg, Milk, Soy, Wheat"
+Breakfast Sandwiches and Melts,,"Texas Chicken Sausage, Egg & Cheese Melt",570,31,11,0,269,1668,41,2,6,31,"Egg, Milk, Soy, Wheat"
+Breakfast Sandwiches and Melts,,Bacon Sandwich,265,14,5,0,30,635,25,1,3,13,Soy Wheat
+Breakfast Sandwiches and Melts,,Bacon & Egg Sandwich,355,21,7,0,199,723,26,1,4,19,"Egg, Soy, Wheat"
+Breakfast Sandwiches and Melts,,"Bacon, Egg & Cheese Sandwich",405,25,9,0,212,973,27,1,5,22,"Egg, Milk, Soy, Wheat"
+Breakfast Sandwiches and Melts,,"Texas Bacon, Egg & Cheese Melt",525,30,12,0,224,1343,41,2,6,26,"Egg, Milk, Soy, Wheat"
+Breakfast Sandwiches and Melts,,Grilled Ham Sandwich,230,4,1,0,40,1110,32,1,9,18,Soy Wheat
+Breakfast Sandwiches and Melts,,Ham & Egg Sandwich,320,11,3,0,209,1198,33,1,10,24,"Egg, Soy, Wheat"
+Breakfast Sandwiches and Melts,,"Ham, Egg & Cheese Sandwich",370,16,5,0,222,1448,34,1,11,27,"Egg, Milk, Soy, Wheat"
+Breakfast Sandwiches and Melts,,"Texas Ham, Egg & Cheese Melt",490,21,8,0,234,1818,48,2,12,31,"Egg, Milk, Soy, Wheat"
+Kids Meals,,Kids Waffle with Bacon or Sausage: Waffle,410,18,10,0,50,870,55,2,15,8,"Egg, Milk, Soy, Tree Nuts, Wheat"
+Kids Meals,option,Kid's Bacon,90,8,3,0,20,250,0,0,0,6,
+Kids Meals,,Kid's Sausage,130,12,4,0,25,255,1,0,0,5,
+Kids Meals,,Kid's Chicken Sausage,90,7,2,0,38,350,0,0,0,7,
+Kids Meals,,Kid's 1 Egg Breakfast with Bacon or Sausage: 1 Egg Scrambled,90,7,2,0,169,88,1,0,1,6,"Egg, Soy"
+Kids Meals,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+Kids Meals,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+Kids Meals,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+Kids Meals,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+Kids Meals,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+Kids Meals,option,Grits,90,3,1,0,0,300,16,1,0,3,"Egg, Milk, Soy, Wheat"
+Kids Meals,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+Kids Meals,,Sliced Tomatoes,10,0,0,0,0,0,2,1,2,1,
+Kids Meals,option,Kid's Bacon,90,8,3,0,20,250,0,0,0,6,
+Kids Meals,,Kid's Sausage,130,12,4,0,25,255,1,0,0,5,
+Kids Meals,,Kid's Chicken Sausage,90,7,2,0,38,350,0,0,0,7,
+Toddle House© Omelet Breakfasts,,Cheese Omelet Breakfast: 2 Egg Cheese Omelet,280,23,9,1,363,676,4,0,3,17,"Milk, Egg, Soy"
+Toddle House© Omelet Breakfasts,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,option,Grits,90,3,1,0,0,300,16,1,0,3,"Egg, Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+Toddle House© Omelet Breakfasts,,Sliced Tomatoes,10,0,0,0,0,0,2,1,2,1,
+Toddle House© Omelet Breakfasts,,Ham & Cheese Omelet Breakfast: 2 Egg Ham & Cheese Omelet,350,26,10,1,388,1306,6,0,4,26,"Milk, Egg, Soy"
+Toddle House© Omelet Breakfasts,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,option,Grits,90,3,1,0,0,300,16,1,0,3,"Egg, Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+Toddle House© Omelet Breakfasts,,Sliced Tomatoes,10,0,0,0,0,0,2,1,2,1,
+Toddle House© Omelet Breakfasts,,Cheesesteak Omelet Breakfast: 2 Egg Cheesesteak Omelet,410,30,12,1,413,976,4,0,3,33,"Milk, Egg, Soy"
+Toddle House© Omelet Breakfasts,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,option,Grits,90,3,1,0,0,300,16,1,0,3,"Egg, Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+Toddle House© Omelet Breakfasts,,Sliced Tomatoes,10,0,0,0,0,0,2,1,2,1,
+Toddle House© Omelet Breakfasts,,Fiesta Omelet Breakfast: 2 Egg Fiesta Omelet,380,26,10,1,388,1696,13,1,6,26,"Milk, Egg, Soy"
+Toddle House© Omelet Breakfasts,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,option,Grits,90,3,1,0,0,300,16,1,0,3,"Egg, Milk, Soy, Wheat"
+Toddle House© Omelet Breakfasts,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+Toddle House© Omelet Breakfasts,,Sliced Tomatoes,10,0,0,0,0,0,2,1,2,1,
+Build your own Omelet Breakfast,,2 Egg Omelet,180,14,4,1,338,176,2,0,2,12,"Egg, Soy"
+Build your own Omelet Breakfast,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+Build your own Omelet Breakfast,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+Build your own Omelet Breakfast,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+Build your own Omelet Breakfast,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+Build your own Omelet Breakfast,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+Build your own Omelet Breakfast,option,Grits,90,3,1,0,0,300,16,1,0,3,"Egg, Milk, Soy, Wheat"
+Build your own Omelet Breakfast,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+Build your own Omelet Breakfast,,Sliced Tomatoes,10,0,0,0,0,0,2,1,2,1,
+Build your own Omelet Breakfast,,Meats:Bacon,90,8,3,0,20,250,0,0,0,6,
+Build your own Omelet Breakfast,,Sausage,130,12,4,0,25,255,1,0,0,5,
+Build your own Omelet Breakfast,,Chicken Sausage,90,7,2,0,38,350,0,0,0,7,
+Build your own Omelet Breakfast,,Grilled Chicken,130,1,0,0,80,930,2,0,0,29,
+Build your own Omelet Breakfast,,Cheesesteak,130,7,3,0,50,300,0,0,0,16,Soy
+Build your own Omelet Breakfast,,Sautéed Onions,15,0,0,0,0,0,3,1,1,0,
+Build your own Omelet Breakfast,,Melted American Cheese,100,9,5,0,25,500,2,0,1,5,"Milk, Soy"
+Build your own Omelet Breakfast,,Hickory Smoked Ham,70,3,1,0,25,630,2,0,1,9,
+Build your own Omelet Breakfast,,Grilled Tomatoes,5,0,0,0,0,0,2,0,1,0,
+Build your own Omelet Breakfast,,Jalapeno Peppers,10,0,0,0,0,390,2,0,0,0,
+Build your own Omelet Breakfast,,Grilled Mushrooms,10,0,0,0,0,140,2,1,1,1,
+Build your own Omelet Breakfast,,Grilled Chicken,130,1,0,0,80,930,2,0,0,29,
+LUNCH/DINNER HASHBROWN BOWLS,,Cheesesteak Melt Hashbrown Bowl,625,30,13,0,75,1280,63,7,2,27,
+LUNCH/DINNER HASHBROWN BOWLS,component,Large Hashbrowns,380,14,5,0,0,480,58,6,0,6,Soy
+LUNCH/DINNER HASHBROWN BOWLS,,Cheesesteak,130,7,3,0,50,300,0,0,0,16,Soy
+LUNCH/DINNER HASHBROWN BOWLS,,Grilled Onions,15,0,0,0,0,0,3,1,1,0,
+LUNCH/DINNER HASHBROWN BOWLS,,American Cheese (2 Slices),100,9,5,0,25,500,2,0,1,5,"Milk, Soy"
+LUNCH/DINNER HASHBROWN BOWLS,,Chicken Melt Hashbrown Bowl,625,24,10,0,105,1910,65,7,2,40,
+LUNCH/DINNER HASHBROWN BOWLS,component,Large Hashbrowns,380,14,5,0,0,480,58,6,0,6,Soy
+LUNCH/DINNER HASHBROWN BOWLS,,Grilled Chicken,130,1,0,0,80,930,2,0,0,29,
+LUNCH/DINNER HASHBROWN BOWLS,,Grilled Onions,15,0,0,0,0,0,3,1,1,0,
+LUNCH/DINNER HASHBROWN BOWLS,,American Cheese (2 Slices),100,9,5,0,25,500,2,0,1,5,"Milk, Soy"
+Chicken Dinner,,Chicken Filet ( 1),130,1,0,0,80,930,2,0,0,29,"Milk, Soy, Wheat"
+Chicken Dinner,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+Chicken Dinner,option,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+Chicken Dinner,,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+Chicken Dinner,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+Chicken Dinner,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+Chicken Dinner,option,Grits,90,3,1,0,0,300,16,1,0,1,"Egg, Milk, Soy, Wheat"
+Chicken Dinner,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+Chicken Dinner,,Sliced Tomatoes,10,0,0,0,0,0,2,1,2,1,
+Meat Lovers Chicken Dinner,,Chicken Filet (2),260,2,0,0,160,1860,4,0,0,58,"Milk, Soy, Wheat"
+Meat Lovers Chicken Dinner,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+Meat Lovers Chicken Dinner,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+Meat Lovers Chicken Dinner,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+Meat Lovers Chicken Dinner,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+Meat Lovers Chicken Dinner,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+Meat Lovers Chicken Dinner,option,Grits,90,3,1,0,0,300,16,1,0,1,"Egg, Milk, Soy, Wheat"
+Meat Lovers Chicken Dinner,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+Meat Lovers Chicken Dinner,,Sliced Tomatoes,10,0,0,0,0,0,2,1,2,1,
+Country Ham Dinner,,Country Ham (1),190,9,3,0,95,2110,1,0,1,25,"Milk, Soy, Wheat"
+Country Ham Dinner,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+Country Ham Dinner,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+Country Ham Dinner,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+Country Ham Dinner,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+Country Ham Dinner,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+Country Ham Dinner,option,Grits,90,3,1,0,0,300,16,1,0,1,"Egg, Milk, Soy, Wheat"
+Country Ham Dinner,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+Country Ham Dinner,,Sliced Tomatoes,10,0,0,0,0,0,2,1,2,1,
+Pork Chop Dinner,,Pork Chops (2),340,14,5,0,140,1040,0,0,0,52,"Milk, Soy, Wheat"
+Pork Chop Dinner,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+Pork Chop Dinner,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+Pork Chop Dinner,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+Pork Chop Dinner,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+Pork Chop Dinner,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+Pork Chop Dinner,option,Grits,90,3,1,0,0,300,16,1,0,1,"Egg, Milk, Soy, Wheat"
+Pork Chop Dinner,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+Pork Chop Dinner,,Sliced Tomatoes,10,0,0,0,0,0,2,1,2,1,
+Meat Lovers Pork Chop Dinner,,Pork Chops (3),510,21,8,0,210,1560,0,0,0,78,"Milk, Soy, Wheat"
+Meat Lovers Pork Chop Dinner,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+Meat Lovers Pork Chop Dinner,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+Meat Lovers Pork Chop Dinner,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+Meat Lovers Pork Chop Dinner,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+Meat Lovers Pork Chop Dinner,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+Meat Lovers Pork Chop Dinner,option,Grits,90,3,1,0,0,300,16,1,0,1,"Egg, Milk, Soy, Wheat"
+Meat Lovers Pork Chop Dinner,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+Meat Lovers Pork Chop Dinner,,Sliced Tomatoes,10,0,0,0,0,0,2,1,2,1,
+T-Bone Dinner,,T-Bone Steak (1),420,29,11,0,115,260,0,0,0,37,"Milk, Soy, Wheat"
+T-Bone Dinner,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+T-Bone Dinner,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+T-Bone Dinner,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+T-Bone Dinner,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+T-Bone Dinner,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+T-Bone Dinner,option,Grits,90,3,1,0,0,300,16,1,0,1,"Egg, Milk, Soy, Wheat"
+T-Bone Dinner,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+T-Bone Dinner,,Sliced Tomatoes,10,0,0,0,0,0,2,1,2,1,
+Delmonico Dinner,,Delmonico Steak (1),300,14,5,1,135,460,0,0,0,41,"Milk, Soy, Wheat"
+Delmonico Dinner,,White Toast - 2 Slices,130,2,0,0,0,260,25,1,3,4,"Milk, Soy, Wheat"
+Delmonico Dinner,,Wheat Toast - 2 Slices,120,2,0,0,0,250,26,4,2,6,"Milk, Soy, Wheat"
+Delmonico Dinner,option,Raisin Toast - 2 Slices,220,3,0,0,0,280,42,2,16,6,"Milk, Soy, Wheat"
+Delmonico Dinner,,Grilled Biscuit,300,15,9,0,0,800,34,1,2,5,"Egg, Milk, Soy, Wheat"
+Delmonico Dinner,,Texas Toast - 1 Slice,100,1,0,0,0,190,19,1,2,3,"Milk, Soy, Wheat"
+Delmonico Dinner,option,Grits,90,3,1,0,0,300,16,1,0,1,"Egg, Milk, Soy, Wheat"
+Delmonico Dinner,,Hashbrowns,190,7,3,0,0,240,29,3,0,3,Soy
+Delmonico Dinner,,Sliced Tomatoes,10,0,0,0,0,0,2,1,2,1,
+Texas Melts,,Texas Grilled Chicken Melt,445,12,5,0,105,1810,45,3,6,40,"Milk, Soy, Wheat"
+Texas Melts,,Texas Cheesesteak™ Melt,445,18,8,0,75,1180,43,3,6,27,"Milk, Soy, Wheat"
+Texas Melts,,Texas Angus Patty Melt,535,28,12,1,85,935,43,3,6,26,"Milk, Soy, Wheat"
+Texas Melts,,Add Bacon (2 slices),90,8,3,0,20,250,0,0,0,6,
+REGULAR BERT'S CHILI™,,Regular Bert's Chili™ (4 oz),110,4,1,0,10,520,11,4,1,9,"Milk, Soy, Wheat"
+REGULAR BERT'S CHILI™,,Large Bert's Chili™ (8 oz),220,7,2,0,20,1040,22,8,2,18,"Milk, Soy, Wheat"
+REGULAR BERT'S CHILI™,,Bert's Chili™ as a Topping (2 oz),55,2,1,0,5,260,6,2,1,5,"Milk, Soy, Wheat"
+100% Angus Beef Hamburgers,,Angus 1/4 LB Hamburger Deluxe,370,19,7,1,60,295,30,2,5,19,"Milk, Soy, Wheat"
+100% Angus Beef Hamburgers,,Angus 1/4 LB Cheeseburger Deluxe,420,23,10,1,73,545,31,2,6,22,"Milk, Soy, Wheat"
+100% Angus Beef Hamburgers,,Double Angus 1/4 LB Cheeseburger Deluxe,690,45,19,2,145,850,32,2,6,39,"Milk, Soy, Wheat"
+100% Angus Beef Hamburgers,,Angus Patty,220,17,7,1,60,55,0,0,0,15,
+100% Angus Beef Hamburgers,,Bun,130,2,0,0,0,240,25,1,3,4,
+100% Angus Beef Hamburgers,,Add Bacon (2 slices),90,8,3,0,20,250,0,0,0,6,
+Sandwiches,,Grilled Chicken Sandwich Deluxe,280,3,0,0,80,1170,32,2,5,33,"Milk, Soy, Wheat,"
+Sandwiches,,Grilled Chicken Bacon Cheese Sandwich Deluxe,420,15,6,0,113,1670,33,2,6,42,"Milk, Soy, Wheat,"
+Sandwiches,,Grilled Cheese Sandwich,230,11,5,0,25,760,27,1,4,9,"Milk, Soy, Wheat"
+Sandwiches,,Waffle Sandwich (Ham and Cheese on Wheat),270,9,3,0,53,1350,34,4,9,23,"Milk, Soy, Wheat"
+Sandwiches,,Ham & Cheese Sandwich (Lettuce & Tomato),285,9,3,0,53,1360,35,1,11,21,"Milk, Soy, Wheat"
+Sandwiches,,BLT Sandwich,275,14,5,0,30,635,27,1,4,13,Soy Wheat
+Sandwiches,,Texas Bacon Lover's BLT Sandwich (5 bacon slices),435,22,8,0,50,1005,40,2,5,21,"Milk, Soy, Wheat"
+Pies,,Regular Slice Southern Pecan Pie,510,26,8,0,65,610,66,1,28,4,"Egg, Milk, Soy, Tree Nuts, Wheat"
+Pies,,Small Slice Southern Pecan Pie,255,13,4,0,33,305,33,1,14,2,"Egg, Milk, Soy, Tree Nuts, Wheat"
+Pies,,Regular Slice Triple Chocolate Pie,490,25,15,0,63,270,59,1,39,2,"Milk, Soy, Wheat"
+Pies,,Small Slice Triple Chocolate Pie,245,13,8,0,31,135,30,1,20,1,"Milk, Soy, Wheat"
+Beverages,,Coffee,5,0,0,0,0,0,1,0,0,0,
+Beverages,,Dark Roast Coffee,5,0,0,0,0,0,1,0,0,0,
+Beverages,,Coffee - Decaf,5,0,0,0,0,0,1,0,0,0,
+Beverages,,Coca-Cola®,160,0,0,0,0,35,44,0,44,0,
+Beverages,,Diet Coke®,0,0,0,0,0,50,0,0,0,0,
+Beverages,,Sprite®,160,0,0,0,0,70,42,0,42,0,
+Beverages,,Pibb-Xtra®,150,0,0,0,0,60,42,0,42,0,
+Beverages,,Barq's Root Beer®,180,0,0,0,0,75,50,0,50,0,
+Beverages,,Hi-C® Fruit Punch,170,0,0,0,0,55,46,0,45,0,
+Beverages,,Simply Lemonade,160,0,0,0,0,30,41,0,39,0,
+Beverages,,Alice's Iced Tea™ - Unsweet,0,0,0,0,0,0,0,0,0,0,
+Beverages,,Alice's Iced Tea™ - Sweet,70,0,0,0,0,0,17,0,17,0,
+Beverages,,Alice's Iced Tea-Monade,140,0,0,0,0,0,36,0,35,0,
+Beverages,,Simply Orange Juice,160,0,0,0,0,0,37,0,33,2,
+Beverages,,Simply Apple Juice,160,0,0,0,0,5,43,0,40,0,
+Beverages,,Honest Kids Apple Juice,35,0,0,0,0,15,9,0,8,0,
+Beverages,,Regular Milk,130,5,4,0,20,125,13,0,13,9,Milk
+Beverages,,Large Milk,250,10,6,0,40,230,24,0,24,16,Milk
+Beverages,,Large Chocolate Milk,440,16,10,0,70,360,58,0,54,16,Milk
+Beverages,,Regular Chocolate Milk,230,9,5,0,35,190,31,0,29,9,Milk
+Beverages,,Hot Tea,5,0,0,0,0,0,0,0,0,0,
